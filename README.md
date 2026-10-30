@@ -1,5 +1,7 @@
 # Sabores del Litoral — App móvil
 
+INTEGRANTES: IGNACIO ALBRECHT, MAXIMO STEBLER, IGNACIO WASINGER, SEBASTIAN ZURSCHMITTER
+
 Frontend en **React Native + Expo Router** que consume la API Spring Boot de este repositorio.
 
 - Expo SDK 58, React Native 0.88, React 19.3 y TypeScript estricto.
